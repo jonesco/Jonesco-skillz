@@ -1,5 +1,5 @@
 ---
-name: "humanizer"
+name: "words-are-hard"
 description: "Use when writing, drafting, or rewriting any prose (posts, emails, captions, bios, site copy, UX copy) so it reads like a person wrote it, not an AI."
 ---
 

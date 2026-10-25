@@ -12,7 +12,7 @@
       "strict": false,
       "skills": [
         "./skills/typographic-style",
-        "./skills/humanizer",
+        "./skills/words-are-hard",
         "./skills/organize-desktop"
       ]
     }

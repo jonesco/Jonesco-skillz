@@ -5,7 +5,7 @@ Wes Jones's skills for Claude.
 | Skill | What it does |
 | --- | --- |
 | [typographic-style](skills/typographic-style/SKILL.md) | Applies Bringhurst's *Elements of Typographic Style* to text, CSS, UI, documents, and design. |
-| [humanizer](skills/humanizer/SKILL.md) | Rewrites prose so it reads like a person wrote it. |
+| [words-are-hard](skills/words-are-hard/SKILL.md) | Rewrites prose so it reads like a person wrote it. |
 | [organize-desktop](skills/organize-desktop/SKILL.md) | Sorts Desktop files into topic folders, with UI screenshots in their own folder. |
 
 ## Layout
