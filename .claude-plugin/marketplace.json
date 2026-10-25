@@ -1,0 +1,20 @@
+{
+  "name": "jonesco-skillz",
+  "owner": {
+    "name": "Wes Jones",
+    "email": "wes@jonesco.com"
+  },
+  "plugins": [
+    {
+      "name": "jonesco-skillz",
+      "description": "Typography, prose, and desktop organization skills.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/typographic-style",
+        "./skills/humanizer",
+        "./skills/organize-desktop"
+      ]
+    }
+  ]
+}
